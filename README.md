@@ -1,6 +1,6 @@
-Custom startup package
+#Custom startup package
 
-Fresh installation:
+##Fresh installation:
 
 In root directory run: 
 
@@ -20,6 +20,7 @@ or simply:
 	grunt
 ```
 
+##Development
 In order to use not compressed css and require version of js replace coresponding lines:
 ```
 	<link rel="stylesheet" href="assets/css/app.css" type="text/css" />
