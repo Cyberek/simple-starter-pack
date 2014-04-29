@@ -1,0 +1,25 @@
+{
+  "name": "myproject.pl",
+  "version": "0.0.0",
+  "authors": [
+    "Marcin Bobowski <marcin@citystudio.pl>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "almond": "~0.2.9",
+    "imagesloaded": "~3.1.4",
+    "jquery": "2.1.0",
+    "picturefill": "~1.2.1",
+    "jquery-throttle-debounce": "*",
+    "requirejs": "~2.1.11",
+    "r.js": "~2.1.11",
+    "modernizr": "~2.7.2"
+  },  
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

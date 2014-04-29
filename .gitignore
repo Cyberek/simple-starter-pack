@@ -1,0 +1,12 @@
+node_modules/
+
+assets/js/bower_components/
+assets/js/app.min.js
+assets/js/modernizr.min.js
+assets/sass/app.min.sss
+
+.sass-cache/
+.DS_Store
+._.DS_Store
+._favicon.ico
+._*.png
